@@ -55,7 +55,6 @@ Route::get('meg', function(){
   return view('message');
 });
 
-//Livewire Route
 
 //Admin Route
 require __DIR__.'/admin.php';
